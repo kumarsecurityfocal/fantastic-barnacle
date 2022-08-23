@@ -1,7 +1,7 @@
 num1 = 15
 num2 = 12
 
-# HOLA!! Adding two nos in this  test
+# HOLA!! Adding two nos in this  test program
 sum = num1 + num2
 
 # printing values
