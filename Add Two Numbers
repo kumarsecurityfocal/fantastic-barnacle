@@ -1,6 +1,5 @@
 num1 = 15
 num2 = 12
-num3 =13
 
 # HOLA!! Adding two nos in this  test program
 sum = num1 + num2 +num3
