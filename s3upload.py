@@ -22,7 +22,7 @@ sessionToken = resp['Credentials']['SessionToken']
 #print "\nSecretKey: %s"%(secretKey)
 #print "\nAccessKey ID: %s"%(accessKey)
 #print resp
-
+#ptint test
 
 def main(argv):
    Bucket = ''
